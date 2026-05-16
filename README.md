@@ -11,6 +11,7 @@
 **Goal:** Land a junior tech role (software/cloud/DevOps/cyber/embedded) by November 2026.
 
 ## Progress Log
-| Date | What I did | Streak |
-|------|-----------|--------|
-| 16 May 2026 | Day 1: Set up GitHub, VS Code, Python, Git | Day 1 |
+
+| Date        | What I did                                 | Streak |
+| ----------- | ------------------------------------------ | ------ |
+| 16 May 2026 | Day 1: Set up GitHub, VS Code, Python, Git | Day 1  |
