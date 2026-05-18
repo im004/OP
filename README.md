@@ -12,6 +12,8 @@
 
 ## Progress Log
 
-| Date        | What I did                                 | Streak |
-| ----------- | ------------------------------------------ | ------ |
-| 16 May 2026 | Day 1: Set up GitHub, VS Code, Python, Git | Day 1  |
+| Date        | What I did                                    | Streak |
+| ----------- | --------------------------------------------- | ------ |
+| 16 May 2026 | Day 1: Set up GitHub, VS Code, Python, Git    | Day 1  |
+| 17 May 2026 | Day 2: Git workflow, built CLI Budget Tracker | Day 2  |
+| 18 May 2026 | Day 3: Linux terminal fundamentals            | Day 3  |
