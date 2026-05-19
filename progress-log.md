@@ -7,7 +7,8 @@
 - ⏱️ Time spent: 3 hours
 - 🎯 Tomorrow (Day 3): Linux terminal fundamentals
 
-## Day 3 — 19 May 2026
+## Day 3 — 18 May 2026
+
 - ✅ All 6 terminal blocks completed
 - ✅ Navigation, files, grep, piping, shell script
 - ✅ Quiz: 4.5/5 (gap: chmod permissions — now understood)
