@@ -1,16 +1,20 @@
-## Day 2 — 17 May 2026
+# Daily Progress Log
 
+## Day 1 — 16 May 2026
+- ✅ GitHub account created
+- ✅ VS Code and Python already installed
+- ✅ Git installed and configured
+- ✅ SSH authentication set up
+- ✅ operation-job repo created, first commit pushed
+
+## Day 2 — 18 May 2026
 - ✅ Learned core Git workflow (status, add, commit, push)
-- ✅ Learned Git branching basics
-- ✅ Built CLI Budget Tracker in Python
+- ✅ Learned Git branching (and fixed a real branch mistake)
+- ✅ Built CLI Budget Tracker in Python with input validation and file saving
 - ✅ Pushed first standalone portfolio project to GitHub
-- ⏱️ Time spent: 3 hours
-- 🎯 Tomorrow (Day 3): Linux terminal fundamentals
 
-## Day 3 — 18 May 2026
-
+## Day 3 — 19 May 2026
 - ✅ All 6 terminal blocks completed
 - ✅ Navigation, files, grep, piping, shell script
 - ✅ Quiz: 4.5/5 (gap: chmod permissions — now understood)
-- ⏱️ Time spent: 2 hours
-- 🎯 Tomorrow (Day 4): Python fundamentals + first LeetCode problems
+- 🎯 Tomorrow: Python fundamentals + first LeetCode problems
