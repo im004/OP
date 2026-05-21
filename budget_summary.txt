@@ -1,0 +1,15 @@
+-------- Budget Summary --------
+  Expense: r | Amount: 30.0 | Category: r
+  Expense: o | Amount: 900.0 | Category: o
+  Expense: p | Amount: 90.0 | Category: po
+
+Total Income:  £3000.00
+Total Spent:   £1020.00
+Remaining:     £1980.00
+
+-------- Category Breakdown --------
+  r: £30.00
+  o: £900.00
+  po: £90.00
+
+✅ Within budget.
