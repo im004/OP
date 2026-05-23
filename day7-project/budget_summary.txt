@@ -1,0 +1,11 @@
+-------- Budget Summary --------
+  Expense: GYM | Amount: 20.0 | Category: 20
+
+Total Income:  £900.00
+Total Spent:   £20.00
+Remaining:     £880.00
+
+-------- Category Breakdown --------
+  20: £20.00
+
+✅ Within budget.
