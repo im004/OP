@@ -1,0 +1,10 @@
+{
+    "income": 2000.0,
+    "category_totals": {
+        "Housing": 900.0,
+        "Food": 300.0,
+        "Travel": 150.0
+    },
+    "total_spent": 1350.0,
+    "remaining": 650.0
+}

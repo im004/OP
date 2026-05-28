@@ -1,0 +1,20 @@
+{
+    "income": 2000.0,
+    "expenses": [
+        {
+            "name": "Rent",
+            "amount": 950.0,
+            "category": "Rent"
+        },
+        {
+            "name": "Gym",
+            "amount": 20.0,
+            "category": "Fitness"
+        },
+        {
+            "name": "Food",
+            "amount": 350.0,
+            "category": "Food"
+        }
+    ]
+}

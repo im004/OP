@@ -1,0 +1,30 @@
+{
+    "name": "Imran",
+    "age": 21,
+    "skills": [
+        "Python",
+        "Git",
+        "Linux",
+        "IoT Systems"
+    ],
+    "projects": [
+        {
+            "name": "Budget Tracker",
+            "description": "A simple budget tracking app in Python."
+        },
+        {
+            "name": "IoT Weather Station",
+            "description": "A weather station using Raspberry Pi and sensors."
+        },
+        {
+            "name": "Personal Portfolio",
+            "description": "A personal website showcasing projects and skills."
+        }
+    ],
+    "address": {
+        "street": "Uxbridge Road",
+        "city": "London",
+        "country": "UK"
+    },
+    "active": true
+}
