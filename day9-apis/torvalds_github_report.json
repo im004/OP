@@ -1,0 +1,23 @@
+{
+    "total_repos": 11,
+    "total_stars": 246825,
+    "languages": {
+        "OpenSCAD": 1,
+        "C": 9,
+        "C++": 1
+    },
+    "repos_names": [
+        "1590A",
+        "AudioNoise",
+        "GuitarPedal",
+        "HunspellColorize",
+        "libdc-for-dirk",
+        "libgit2",
+        "linux",
+        "pesconvert",
+        "subsurface-for-dirk",
+        "test-tlb",
+        "uemacs"
+    ],
+    "most_used_language": "C"
+}

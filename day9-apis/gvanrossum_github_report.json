@@ -1,0 +1,43 @@
+{
+    "total_repos": 28,
+    "total_stars": 2550,
+    "languages": {
+        "Python": 16,
+        "C": 4,
+        "HTML": 2,
+        "JavaScript": 1,
+        "C++": 1,
+        "TypeScript": 1
+    },
+    "repos_names": [
+        "500lines",
+        "abc-unix",
+        "asyncio",
+        "ballot-box",
+        "c-parser",
+        "cpython",
+        "ctok",
+        "devguide",
+        "exceptiongroup",
+        "guidos_time_machine",
+        "gvanrossum.github.io",
+        "http-get-perf",
+        "minithesis",
+        "mirror-cwi-stdwin",
+        "mypy",
+        "mypy-dummy",
+        "old-demos",
+        "path-pep",
+        "patma",
+        "pep550",
+        "peps",
+        "Pyjion",
+        "pythonlabs",
+        "pythonlabs-com-azure",
+        "pytype",
+        "pyxl3",
+        "typeagent-py",
+        "TypeChat"
+    ],
+    "most_used_language": "Python"
+}

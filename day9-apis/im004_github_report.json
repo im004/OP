@@ -1,0 +1,13 @@
+{
+    "total_repos": 3,
+    "total_stars": 0,
+    "languages": {
+        "Python": 3
+    },
+    "repos_names": [
+        "cli-budget-tracker",
+        "neetcode-submissions",
+        "OP"
+    ],
+    "most_used_language": "Python"
+}
