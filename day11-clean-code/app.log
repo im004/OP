@@ -1,0 +1,6 @@
+2026-05-31 18:37:02,417 - ERROR - Division by zero attempted
+2026-05-31 18:38:18,869 - ERROR - Division by zero attempted
+2026-05-31 18:40:52,405 - INFO - Dividing 10 by 2
+2026-05-31 18:40:52,405 - INFO - Result: 5.0
+2026-05-31 18:41:11,895 - INFO - Dividing 10 by 0
+2026-05-31 18:41:11,896 - ERROR - Division by zero attempted
